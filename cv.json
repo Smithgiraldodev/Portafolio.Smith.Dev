@@ -1,0 +1,274 @@
+{
+  "basics": {
+    "name": "Johan Smith Giraldo Alarcón ",
+    "label": "Creativo Audiovisual & Diseñador Gráfico/Web.",
+    "image": "/me.webp",
+    "email": "contacto@sgwebs.com",
+    "phone": "+57 3012087805",
+    "url": "https://creaktivos.com.co/",
+    "summary": "Con más de 3 años de trayectoria, me destaco como Creador de Contenido Audiovisual, Diseñador Gráfico y Web. Mi enfoque estratégico ha contribuido al posicionamiento  de marcas en diversos proyectos con marketing y publicidad, combinando creatividad y tecnología.",
+    "location": {
+      "address": "",
+      "postalCode": "08820",
+      "city": "Urabá Antioquia",
+      "countryCode": "CO",
+      "region": "Colombia"
+    },
+    "profiles": [
+    
+      {
+        "network": "Whatsapp",
+        "username": "smithgiraldo",
+        "url": "https://api.whatsapp.com/send?phone=573012087805&text=Hola%2C%20vengo%20de%20tu%20web%20%F0%9F%98%81"
+      }
+      ,{
+        "network": "Instagram",
+        "username": "smithgiraldo",
+        "url": "https://www.instagram.com/smithgiraldo/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Creaktivos",
+      "position": "Estratega Digital",
+      "url": "https://creaktivos.com.co/",
+      "startDate": "2023-03-01",
+      "endDate": null,
+      "summary": "Especialista en Marketing y Publicidad apasionado. Destaco por mi atención meticulosa a los detalles visuales y sonoros, potenciando identidades de manera única y memorable.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "WordPress",
+      "position": "Maquetador Web / Front-end",
+      "url": "https://wordpress.com/es/",
+      "startDate": "2021-02-01",
+      "endDate": null,
+      "summary": "Diseñador y desarrollador web, lidero la creación de sitios vanguardistas y adaptables. Especializado en comercio electrónico, optimizo la experiencia del usuario, maximizo conversiones y administro plugins para potenciar funcionalidades.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Google",
+      "position": "Google IT Support",
+      "url":"https://grow.google/certificates/it-support/",
+      "startDate": "2021-02-05",
+      "endDate": "2022-12-01",
+      "summary": "Como líder en Google IT Support, me especialicé en soluciones tecnológicas innovadoras, trabajando en colaboración con Coursera y Comfenalco para potenciar mi conocimiento y eficacia en la optimización de sistemas y la asistencia técnica.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "PeaKU", 
+    "area": "Desarrollador web",
+    "studyType": "Curso",
+    "startDate": "2022-01-15",
+    "endDate": "2023-01-15",
+    "courses": [
+      "Backend - Frontend"
+    ]
+  }],
+
+
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "Sitio web Musico",
+      "isActive": true,
+      "description": " Landing Page sofisticada con páginas dinámicas y efectos estéticos. Dirige a usuarios de manera estratégica a plataformas digitales y musicales.",
+      "highlights": [
+        "Tecnologia WP",
+        "Responsive"
+      ],
+      "url": "https://axelgonzalez.co/"
+    },
+    {
+      "name": "Bienes Raíces",
+      "isActive": true,
+      "description": "Sitio web para empresa líder en bienes raíces en Colombia. Secciones personalizadas y plugins adaptados para un servicio excepcional.",
+      "highlights": [
+        "Tecnologia WP",
+        "Multidioma",
+        "Responsive"
+      ],
+      "url": "https://www.raices.com.co/"
+    },
+    {
+      "name": "Politica",
+      "isActive": true,
+      "description": " web dinámica e interactiva con diseño que refleja fielmente la identidad gráfica del proyecto. Incluye sutiles efectos mejorando la experiencia",
+      "highlights": [
+        "Tecnologia WP",
+        "Responsive"
+      ],
+      "url": "https://www.jaimeherrera.com.co/"
+    },
+    {
+      "name": "Empresa Logistica",
+      "isActive": false,
+      "description": "Sitio web de empresa líder en servicios, logística y suministros en Colombia. Secciones personalizadas y dirección a plataformas digitales.",
+      "highlights": [
+        "Html",
+        "CSS",
+        "Astro"
+      ],
+      "url": "https://logiaction.co/"
+  
+    },
+    {
+      "name": "Dominios GOV.CO",
+      "isActive": true,
+      "description": "Actualización de diseño web y adaptabilidad a sitio web de gobierno local respetando parametros de seguridad",
+      "highlights": [
+        "Bootstrap",
+        "Multidioma"
+      ],
+      "url": "http://www.concejo-carepa-antioquia.gov.co/"
+    },
+    {
+      "name": "Edición / Animación",
+      "isActive":true,
+      "description": "Diseños exclusivos y animación en contenido multimedia añadiendo efectos visuales y de sonido",
+      "highlights": [
+        "Adobe Premiere",
+        "Adobe Photoshop",
+        "Davinci Resolve"
+      ],
+      "url": "https://www.youtube.com/watch?v=3L8S_qWLTi0&ab_channel=AxelGonz%C3%A1lez"
+    }
+  ]
+}
